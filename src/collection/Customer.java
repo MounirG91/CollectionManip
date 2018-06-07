@@ -1,3 +1,5 @@
+package collection;
+
 public class Customer {
 
     private String firstName, lastName, address;
@@ -47,7 +49,7 @@ public class Customer {
 
     @Override
     public String toString() {
-        return "Customer{" +
+        return "collection.Customer{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", address='" + address + '\'' +
