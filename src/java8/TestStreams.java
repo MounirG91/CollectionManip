@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-public class Test {
+public class TestStreams {
 
     static final String moiDuMai = "201805";
 
