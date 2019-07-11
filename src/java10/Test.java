@@ -10,6 +10,7 @@ import java.util.stream.Collectors;
 public class Test {
     public static void main(String[] args){
 
+        /*
         // La possibilité d'utiliser le mot clé var
         var list=List.of(1,2,3);
 
@@ -19,7 +20,7 @@ public class Test {
 
         // Utilisation unmodifiableList pour les collections, unmodifiableSet et unmodifiableMap
        final var unmodifiableList= Collections.unmodifiableList(copyOfList);
-
+       */
 
     }
 
